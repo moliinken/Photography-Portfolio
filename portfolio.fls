@@ -71,6 +71,9 @@ INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT res/port_allison.jpg
 INPUT ./res/port_allison.jpg
 INPUT ./res/port_allison.jpg
+INPUT res/port_jessica_roy.jpg
+INPUT ./res/port_jessica_roy.jpg
+INPUT ./res/port_jessica_roy.jpg
 INPUT res/promo_in2.jpg
 INPUT ./res/promo_in2.jpg
 INPUT ./res/promo_in2.jpg
@@ -83,6 +86,9 @@ INPUT ./res/port_tyson.jpg
 INPUT res/group_taiwan.jpg
 INPUT ./res/group_taiwan.jpg
 INPUT ./res/group_taiwan.jpg
+INPUT res/port_grandpa.jpg
+INPUT ./res/port_grandpa.jpg
+INPUT ./res/port_grandpa.jpg
 INPUT res/event_simon.jpg
 INPUT ./res/event_simon.jpg
 INPUT ./res/event_simon.jpg

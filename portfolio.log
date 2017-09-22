@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 SEP 2017 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  21 SEP 2017 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -133,61 +133,71 @@ File: res/port_allison.jpg Graphic file (type jpg)
  <use res/port_allison.jpg>
 Package pdftex.def Info: res/port_allison.jpg used on input line 16.
 (pdftex.def)             Requested size: 345.0pt x 517.46323pt.
- [1 <./res/port_allison.jpg>] <res/promo_in2.jpg, id=12, 1248.8256pt x 832.5504pt>
+ [1 <./res/port_allison.jpg>] <res/port_jessica_roy.jpg, id=12, 4549.99875pt x 3639.5975pt>
+File: res/port_jessica_roy.jpg Graphic file (type jpg)
+ <use res/port_jessica_roy.jpg>
+Package pdftex.def Info: res/port_jessica_roy.jpg used on input line 22.
+(pdftex.def)             Requested size: 431.2824pt x 345.0pt.
+ [2 <./res/port_jessica_roy.jpg>]
+<res/promo_in2.jpg, id=16, 5203.44pt x 3468.96pt>
 File: res/promo_in2.jpg Graphic file (type jpg)
  <use res/promo_in2.jpg>
-Package pdftex.def Info: res/promo_in2.jpg used on input line 22.
-(pdftex.def)             Requested size: 517.50981pt x 345.0pt.
- [2 <./res/promo_in2.jpg>] <res/sport_grace.jpg, id=16, 2010.51125pt x 3015.265pt>
+Package pdftex.def Info: res/promo_in2.jpg used on input line 29.
+(pdftex.def)             Requested size: 517.43677pt x 345.0pt.
+ [3 <./res/promo_in2.jpg>] <res/sport_grace.jpg, id=20, 2010.51125pt x 3015.265pt>
 File: res/sport_grace.jpg Graphic file (type jpg)
-
-<use res/sport_grace.jpg>
-Package pdftex.def Info: res/sport_grace.jpg used on input line 28.
+ <use res/sport_grace.jpg>
+Package pdftex.def Info: res/sport_grace.jpg used on input line 35.
 (pdftex.def)             Requested size: 345.0pt x 517.37323pt.
- [3 <./res/sport_grace.jpg>] <res/port_tyson.jpg, id=20, 6022.5pt x 4015.0pt>
+ [4 <./res/sport_grace.jpg>] <res/port_tyson.jpg, id=24, 6022.5pt x 4015.0pt>
 File: res/port_tyson.jpg Graphic file (type jpg)
  <use res/port_tyson.jpg>
-Package pdftex.def Info: res/port_tyson.jpg used on input line 34.
+Package pdftex.def Info: res/port_tyson.jpg used on input line 41.
 (pdftex.def)             Requested size: 517.46544pt x 345.0pt.
- [4 <./res/port_tyson.jpg>] <res/group_taiwan.jpg, id=24, 5637.06pt x 3758.04pt>
+ [5 <./res/port_tyson.jpg>] <res/group_taiwan.jpg, id=28, 5637.06pt x 3758.04pt>
 File: res/group_taiwan.jpg Graphic file (type jpg)
  <use res/group_taiwan.jpg>
-Package pdftex.def Info: res/group_taiwan.jpg used on input line 41.
+Package pdftex.def Info: res/group_taiwan.jpg used on input line 48.
 (pdftex.def)             Requested size: 517.46323pt x 345.0pt.
- [5 <./res/group_taiwan.jpg>] <res/event_simon.jpg, id=28, 1445.4pt x 963.6pt>
+ [6 <./res/group_taiwan.jpg>] <res/port_grandpa.jpg, id=33, 3712.87125pt x 5570.8125pt>
+File: res/port_grandpa.jpg Graphic file (type jpg)
+ <use res/port_grandpa.jpg>
+Package pdftex.def Info: res/port_grandpa.jpg used on input line 54.
+(pdftex.def)             Requested size: 345.0pt x 517.58719pt.
+ [7 <./res/port_grandpa.jpg>] <res/event_simon.jpg, id=37, 6022.5pt x 4015.0pt>
 File: res/event_simon.jpg Graphic file (type jpg)
  <use res/event_simon.jpg>
-Package pdftex.def Info: res/event_simon.jpg used on input line 48.
-(pdftex.def)             Requested size: 517.49852pt x 345.0pt.
- [6 <./res/event_simon.jpg>] <res/port_felicia.jpg, id=33, 967.4544pt x 1449.2544pt>
+Package pdftex.def Info: res/event_simon.jpg used on input line 60.
+(pdftex.def)             Requested size: 517.46544pt x 345.0pt.
+ [8 <./res/event_simon.jpg>] <res/port_felicia.jpg, id=41, 4031.06pt x 6038.56pt>
 File: res/port_felicia.jpg Graphic file (type jpg)
  <use res/port_felicia.jpg>
-Package pdftex.def Info: res/port_felicia.jpg used on input line 54.
-(pdftex.def)             Requested size: 345.0pt x 516.7998pt.
- [7 <./res/port_felicia.jpg>] <res/event_hypnotist.jpg, id=37, 5203.44pt x 3468.96pt>
+Package pdftex.def Info: res/port_felicia.jpg used on input line 66.
+(pdftex.def)             Requested size: 345.0pt x 516.7261pt.
+ [9 <./res/port_felicia.jpg>] <res/event_hypnotist.jpg, id=45, 5203.44pt x 3468.96pt>
 File: res/event_hypnotist.jpg Graphic file (type jpg)
  <use res/event_hypnotist.jpg>
-Package pdftex.def Info: res/event_hypnotist.jpg used on input line 60.
+Package pdftex.def Info: res/event_hypnotist.jpg used on input line 72.
 (pdftex.def)             Requested size: 517.43677pt x 345.0pt.
- [8 <./res/event_hypnotist.jpg>] <res/port_karolina.jpg, id=41, 5344.96875pt x 2348.775pt>
+ [10 <./res/event_hypnotist.jpg>] <res/port_karolina.jpg, id=49, 5344.96875pt x 2348.775pt>
 File: res/port_karolina.jpg Graphic file (type jpg)
  <use res/port_karolina.jpg>
-Package pdftex.def Info: res/port_karolina.jpg used on input line 67.
+Package pdftex.def Info: res/port_karolina.jpg used on input line 79.
 (pdftex.def)             Requested size: 550.0pt x 241.6649pt.
- [9 <./res/port_karolina.jpg>] (./portfolio.aux) ) 
+ [11 <./res/port_karolina.jpg>] (./portfolio.aux) ) 
 Here is how much of TeX's memory you used:
- 1588 strings out of 492995
- 23528 string characters out of 6132704
+ 1598 strings out of 492995
+ 23778 string characters out of 6132704
  79266 words of memory out of 5000000
- 5132 multiletter control sequences out of 15000+600000
+ 5140 multiletter control sequences out of 15000+600000
  6675 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,243b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on portfolio.pdf (10 pages, 21059025 bytes).
+Output written on portfolio.pdf (12 pages, 70583272 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
